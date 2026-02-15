@@ -1,3 +1,6 @@
+/*Task 2: Best, Average, and Worst Case Analysis
+        Implement Linear Search and Binary Search*/
+
 package assignment01;
 
 import java.util.Arrays;
