@@ -81,3 +81,28 @@ public class TimeComplexity {
         }
     }
 }
+/*
+n = 10
+O(1) Time: 1200
+O(n) Time: 1100
+O(n^2) Time: 2400
+O(log n) Time: 1200
+----------------------
+n = 100
+O(1) Time: 400
+O(n) Time: 1200
+O(n^2) Time: 117000
+O(log n) Time: 700
+----------------------
+n = 500
+O(1) Time: 300
+O(n) Time: 4900
+O(n^2) Time: 1159400
+O(log n) Time: 1300
+----------------------
+n = 1000
+O(1) Time: 500
+O(n) Time: 12100
+O(n^2) Time: 1697000
+O(log n) Time: 900
+---------------------- */
